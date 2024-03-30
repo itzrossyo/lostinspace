@@ -1,0 +1,8 @@
+div {
+    background-color: black
+}
+
+btn{
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,124 @@
+{
+  "flights_information": [
+    {
+      "id": 1,
+      "name": "Voyager 1",
+      "launchDate": "1977-09-05",
+      "mission": "Study the outer Solar System",
+      "status": "Active",
+      "details": "Voyager 1 is a space probe launched by NASA to study the outer Solar System, including Jupiter, Saturn, and beyond. It is currently the farthest human-made object from Earth."
+    },
+    {
+      "id": 2,
+      "name": "Apollo 11",
+      "launchDate": "1969-07-16",
+      "mission": "Perform a crewed lunar landing",
+      "status": "Completed",
+      "details": "Apollo 11 was the first crewed mission to land on the Moon, with astronauts Neil Armstrong and Buzz Aldrin making history by walking on its surface while Michael Collins orbited above in the command module."
+    },
+    {
+      "id": 3,
+      "name": "Mars Rover Perseverance",
+      "launchDate": "2020-07-30",
+      "mission": "Seek signs of ancient life and collect samples of rock and regolith for possible return to Earth.",
+      "status": "Active",
+      "details": "Perseverance is a Mars rover mission by NASA's Mars Exploration Program. It aims to study the geology, climate, and potential habitability of Mars, as well as pave the way for human exploration of the planet."
+    },
+    {
+      "id": 4,
+      "name": "Hubble Space Telescope",
+      "launchDate": "1990-04-24",
+      "mission": "Observe the most distant galaxies and study the atmospheres of exoplanets",
+      "status": "Active",
+      "details": "The Hubble Space Telescope is a large space telescope launched into low Earth orbit in 1990. It has provided some of the most detailed images of distant galaxies, nebulae, and other celestial objects, revolutionizing our understanding of the universe."
+    },
+    {
+      "id": 5,
+      "name": "Galileo",
+      "launchDate": "1989-10-18",
+      "mission": "Study Jupiter and its moons",
+      "status": "Completed",
+      "details": "Galileo was an unmanned spacecraft sent by NASA to study the planet Jupiter and its moons. It provided valuable data on Jupiter's atmosphere, magnetosphere, and the Galilean moons."
+    },
+    {
+      "id": 6,
+      "name": "New Horizons",
+      "launchDate": "2006-01-19",
+      "mission": "Explore Pluto and the Kuiper Belt",
+      "status": "Active",
+      "details": "New Horizons is a NASA spacecraft that conducted a flyby study of the dwarf planet Pluto and its moons in 2015. It is now exploring the Kuiper Belt, providing valuable data on these distant icy bodies."
+    },
+    {
+      "id": 7,
+      "name": "Cassini-Huygens",
+      "launchDate": "1997-10-15",
+      "mission": "Study Saturn and its moons",
+      "status": "Completed",
+      "details": "Cassini-Huygens was a joint NASA-ESA mission to study the planet Saturn and its moons. The Cassini orbiter provided unprecedented insights into Saturn's atmosphere, rings, and moons, while the Huygens probe landed on Titan, Saturn's largest moon."
+    },
+    {
+      "id": 8,
+      "name": "SpaceX Dragon",
+      "launchDate": "2010-12-08",
+      "mission": "Cargo resupply to the International Space Station",
+      "status": "Active",
+      "details": "Dragon is a spacecraft developed by SpaceX for cargo resupply missions to the International Space Station (ISS). It is capable of carrying both pressurized and unpressurized cargo, and it plays a crucial role in supporting ISS operations."
+    },
+    {
+      "id": 9,
+      "name": "Juno",
+      "launchDate": "2011-08-05",
+      "mission": "Study Jupiter's composition, gravity field, magnetic field, and polar magnetosphere",
+      "status": "Active",
+      "details": "Juno is a NASA spacecraft launched to study Jupiter's composition, gravity field, magnetic field, and polar magnetosphere. By orbiting Jupiter, Juno aims to improve our understanding of the planet's formation and evolution."
+    },
+    {
+      "id": 10,
+      "name": "Pioneer 10",
+      "launchDate": "1972-03-02",
+      "mission": "First spacecraft to travel through the asteroid belt and make direct observations of Jupiter",
+      "status": "Inactive",
+      "details": "Pioneer 10 was the first spacecraft to travel through the asteroid belt and make direct observations of Jupiter. It provided valuable data on the gas giant before its mission ended in 2003."
+    },
+    {
+      "id": 11,
+      "name": "Viking 1",
+      "launchDate": "1975-08-20",
+      "mission": "Landed on Mars and conducted the first successful Mars lander mission",
+      "status": "Completed",
+      "details": "Viking 1 was the first spacecraft to successfully land on Mars and perform experiments on its surface. It provided valuable data on Martian soil and atmosphere, paving the way for future Mars missions."
+    },
+    {
+      "id": 12,
+      "name": "Chang'e 4",
+      "launchDate": "2018-12-07",
+      "mission": "First soft landing on the far side of the Moon",
+      "status": "Active",
+      "details": "Chang'e 4 is a Chinese lunar exploration mission that achieved the first soft landing on the far side of the Moon. It aims to study the geology, environment, and resources of this previously unexplored lunar region."
+    },
+    {
+      "id": 13,
+      "name": "Crew Dragon Demo-2",
+      "launchDate": "2020-05-30",
+      "mission": "First crewed test flight of Crew Dragon spacecraft",
+      "status": "Completed",
+      "details": "Crew Dragon Demo-2 was the first crewed test flight of SpaceX's Crew Dragon spacecraft, carrying NASA astronauts to and from the International Space Station. It marked a significant milestone in NASA's Commercial Crew Program."
+    },
+    {
+      "id": 14,
+      "name": "Vega",
+      "launchDate": "2012-02-13",
+      "mission": "European launcher for small satellites to low Earth orbit",
+      "status": "Active",
+      "details": "Vega is a European launcher designed to carry small satellites to low Earth orbit. It provides a flexible and cost-effective launch solution for scientific, commercial, and educational payloads."
+    },
+    {
+      "id": 15,
+      "name": "Pioneer 11",
+      "launchDate": "1973-04-06",
+      "mission": "Explored the outer Solar System, including Jupiter, Saturn, and its moon Titan",
+      "status": "Inactive",
+      "details": "Pioneer 11 was a spacecraft launched to explore the outer Solar System, including Jupiter, Saturn, and its moon Titan. It provided valuable data on these distant worlds before its mission ended in 1995."
+    }
+  ]
+}
